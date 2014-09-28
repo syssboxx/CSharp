@@ -1,0 +1,4 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab04_ClassesAndObjects\bin\Release\Lab04_ClassesAndObjects.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab04_ClassesAndObjects\bin\Release\Lab04_ClassesAndObjects.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab04_ClassesAndObjects\obj\x86\Release\Lab04_ClassesAndObjects.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab04_ClassesAndObjects\obj\x86\Release\Lab04_ClassesAndObjects.pdb

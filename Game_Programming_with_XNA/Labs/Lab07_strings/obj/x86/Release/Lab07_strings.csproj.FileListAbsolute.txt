@@ -1,0 +1,5 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab07_strings\bin\Release\Lab07_strings.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab07_strings\bin\Release\Lab07_strings.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab07_strings\obj\x86\Release\Lab07_strings.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab07_strings\obj\x86\Release\Lab07_strings.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab07_strings\obj\x86\Release\Lab07_strings.csprojResolveAssemblyReference.cache

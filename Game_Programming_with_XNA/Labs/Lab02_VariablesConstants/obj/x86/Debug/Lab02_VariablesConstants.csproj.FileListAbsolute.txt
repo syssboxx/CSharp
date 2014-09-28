@@ -1,0 +1,4 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab02_VariablesConstants\bin\Debug\Lab02_VariablesConstants.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab02_VariablesConstants\bin\Debug\Lab02_VariablesConstants.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab02_VariablesConstants\obj\x86\Debug\Lab02_VariablesConstants.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab02_VariablesConstants\obj\x86\Debug\Lab02_VariablesConstants.pdb

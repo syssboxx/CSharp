@@ -1,0 +1,29 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\BurgerShooter.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\BurgerShooter.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\BurgerShooter.csprojResolveAssemblyReference.cache
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\BurgerShooter.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\BurgerShooter.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\Arial20.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\burger.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\explosion.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\frenchfries.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\teddybear.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Optional Project\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Collisions.dll
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\Arial20.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\burger.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\explosion.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\frenchfries.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\teddybear.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\BurgerShooter.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\BurgerShooter.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Collisions.dll
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\BurgerShooter.csprojResolveAssemblyReference.cache
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\BurgerShooter.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\obj\x86\Debug\BurgerShooter.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\GameAudio.xgs
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\Wave Bank.xwb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooter\bin\x86\Debug\Content\Sound Bank.xsb

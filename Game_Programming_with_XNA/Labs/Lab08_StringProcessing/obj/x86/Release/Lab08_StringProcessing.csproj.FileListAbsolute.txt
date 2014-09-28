@@ -1,0 +1,4 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab08_StringProcessing\bin\Release\Lab08_StringProcessing.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab08_StringProcessing\bin\Release\Lab08_StringProcessing.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab08_StringProcessing\obj\x86\Release\Lab08_StringProcessing.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab08_StringProcessing\obj\x86\Release\Lab08_StringProcessing.pdb

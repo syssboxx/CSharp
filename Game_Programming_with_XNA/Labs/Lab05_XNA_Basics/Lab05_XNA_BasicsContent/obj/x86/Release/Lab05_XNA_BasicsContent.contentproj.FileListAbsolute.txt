@@ -1,0 +1,1 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab05_XNA_Basics\Lab05_XNA_BasicsContent\obj\x86\Release\Lab05_XNA_BasicsContent.contentprojResolveAssemblyReference.cache

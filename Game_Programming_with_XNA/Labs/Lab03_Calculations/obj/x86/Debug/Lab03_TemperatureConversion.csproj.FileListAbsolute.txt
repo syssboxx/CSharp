@@ -1,0 +1,4 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab03_Calculations\bin\Debug\Lab03_Calculations.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab03_Calculations\bin\Debug\Lab03_Calculations.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab03_Calculations\obj\x86\Debug\Lab03_Calculations.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab03_Calculations\obj\x86\Debug\Lab03_Calculations.pdb

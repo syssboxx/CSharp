@@ -1,0 +1,4 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab09_ConditionalStatements\bin\Release\Lab09_ConditionalStatements.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab09_ConditionalStatements\bin\Release\Lab09_ConditionalStatements.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab09_ConditionalStatements\obj\x86\Release\Lab09_ConditionalStatements.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab09_ConditionalStatements\obj\x86\Release\Lab09_ConditionalStatements.pdb

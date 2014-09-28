@@ -1,0 +1,1 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Burger Shooter\BurgerShooter\BurgerShooterContent\obj\x86\Debug\BurgerShooterContent.contentprojResolveAssemblyReference.cache

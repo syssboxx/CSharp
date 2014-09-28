@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 1329598604;
+    Bank Last Revised High = 30336517;
+
+    Wave
+    {
+        Name = sweep;
+        File = sweep.wav;
+        Build Settings Last Modified Low = 476599815;
+        Build Settings Last Modified High = 30336517;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 970172;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 150697726;
+            Last Modified High = 30336513;
+        }
+    }
+
+    Wave
+    {
+        Name = Metroid;
+        File = Metroid.wav;
+        Build Settings Last Modified Low = 748175348;
+        Build Settings Last Modified High = 30336517;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 188728;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 352399263;
+            Last Modified High = 30336513;
+        }
+    }
+
+    Wave
+    {
+        Name = Laser;
+        File = Laser.wav;
+        Build Settings Last Modified Low = 748195349;
+        Build Settings Last Modified High = 30336517;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 344656;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 597623289;
+            Last Modified High = 30336513;
+        }
+    }
+
+    Wave
+    {
+        Name = Jump;
+        File = Jump.wav;
+        Build Settings Last Modified Low = 748215350;
+        Build Settings Last Modified High = 30336517;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 16096;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3260832340;
+            Last Modified High = 30336515;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

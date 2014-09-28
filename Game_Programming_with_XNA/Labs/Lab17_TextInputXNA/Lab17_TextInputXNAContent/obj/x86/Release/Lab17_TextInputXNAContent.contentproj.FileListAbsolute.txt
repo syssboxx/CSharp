@@ -1,0 +1,1 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNAContent\obj\x86\Release\Lab17_TextInputXNAContent.contentprojResolveAssemblyReference.cache

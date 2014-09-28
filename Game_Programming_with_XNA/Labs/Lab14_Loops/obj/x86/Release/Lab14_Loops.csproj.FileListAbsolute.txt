@@ -1,0 +1,6 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab14_Loops\bin\Release\Lab14_Loops.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab14_Loops\bin\Release\Lab14_Loops.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab14_Loops\obj\x86\Release\Lab14_Loops.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab14_Loops\obj\x86\Release\Lab14_Loops.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab14_Loops\bin\Release\ConsoleCards.dll
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab14_Loops\obj\x86\Release\Lab14_Loops.csprojResolveAssemblyReference.cache

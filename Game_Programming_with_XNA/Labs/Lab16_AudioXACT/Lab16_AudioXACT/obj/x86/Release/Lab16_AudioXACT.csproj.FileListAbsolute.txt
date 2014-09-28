@@ -1,0 +1,9 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\bin\x86\Release\Lab16_AudioXACT.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\bin\x86\Release\Lab16_AudioXACT.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\obj\x86\Release\Lab16_AudioXACT.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\obj\x86\Release\Lab16_AudioXACT.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\bin\x86\Release\Content\GameAudio.xgs
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\bin\x86\Release\Content\Wave Bank.xwb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\bin\x86\Release\Content\Sound Bank.xsb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\obj\x86\Release\Lab16_AudioXACT.csprojResolveAssemblyReference.cache

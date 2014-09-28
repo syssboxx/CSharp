@@ -1,0 +1,6 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab13_Arrays\bin\Release\Lab13_Arrays.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab13_Arrays\bin\Release\Lab13_Arrays.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab13_Arrays\bin\Release\ConsoleCards.dll
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab13_Arrays\obj\x86\Release\Lab13_Arrays.csprojResolveAssemblyReference.cache
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab13_Arrays\obj\x86\Release\Lab13_Arrays.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab13_Arrays\obj\x86\Release\Lab13_Arrays.pdb

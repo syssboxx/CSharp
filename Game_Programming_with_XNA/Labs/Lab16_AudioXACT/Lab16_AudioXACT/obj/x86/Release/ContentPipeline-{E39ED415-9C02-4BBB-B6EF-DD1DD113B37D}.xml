@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E39ED415-9C02-4BBB-B6EF-DD1DD113B37D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACTContent\</RootDirectory>
+      <LoggerRootDirectory>C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab16_AudioXACT\Lab16_AudioXACT\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-26T20:10:22.252732+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

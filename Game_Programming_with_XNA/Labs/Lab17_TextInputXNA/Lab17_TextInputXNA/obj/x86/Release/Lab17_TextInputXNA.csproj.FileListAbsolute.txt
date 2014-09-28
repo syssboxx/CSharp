@@ -1,0 +1,7 @@
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNA\bin\x86\Release\Content\spider.xnb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNA\bin\x86\Release\Lab17_TextInputXNA.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNA\bin\x86\Release\Lab17_TextInputXNA.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNA\obj\x86\Release\Lab17_TextInputXNA.exe
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNA\obj\x86\Release\Lab17_TextInputXNA.pdb
+C:\STACY\tutorials\Game Programming withC# XNA\Projects\Game_Programming_with_XNA\Labs\Lab17_TextInputXNA\Lab17_TextInputXNA\bin\x86\Release\Content\Arial.xnb

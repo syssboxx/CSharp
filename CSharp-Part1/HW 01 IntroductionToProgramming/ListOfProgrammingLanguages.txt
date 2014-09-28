@@ -1,0 +1,109 @@
+//Provide a short list with information about the most popular programming languages. How do they differ from C#?
+
+Short list of the most popular programming languages 
+----------------------------------------------------
+
+C
+--------
+
+C is one of the most widely used programming languages of all time, and there are very few computer architectures for which a C compiler does not exist.
+It is a general-purpose programming language initially developed by Dennis Ritchie between 1969 and 1973 at AT&T Bell Labs.
+C is an imperative (procedural) language. It was designed to be compiled using a relatively straightforward compiler, to provide low-level access to memory, 
+to provide language constructs that map efficiently to machine instructions, and to require minimal run-time support. C was therefore useful for many applications that had 
+formerly been coded in assembly language, such as in system programming.
+
+Despite its low-level capabilities, the language was designed to encourage cross-platform programming. A standards-compliant and portably written C program can be compiled 
+for a very wide variety of computer platforms and operating systems with few changes to its source code. The language has become available on a very wide range of platforms, 
+from embedded microcontrollers to supercomputers.
+
+C does not include some features found in newer, more modern high-level languages, including object orientation and garbage collection.
+
+
+C++
+---------
+
+C++ is a statically typed, free-form, multi-paradigm, compiled, general-purpose programming language. It is regarded as an intermediate-level 
+language, as it comprises both high-level and low-level language features.
+Developed by Bjarne Stroustrup starting in 1979 at Bell Labs, C++ was originally named C with Classes, adding object oriented features, such as classes, and other 
+enhancements to the C programming language. The language was renamed C++ in 1983, as a pun involving the increment operator.
+
+C++ is one of the most popular programming languages and is implemented on a wide variety of hardware and operating system platforms. 
+As an efficient compiler to native code, its application domains include systems software, application software, device drivers, embedded software, high-performance server
+and client applications, and entertainment software such as video games.
+
+C++ has greatly influenced many other popular programming languages, most notably C# and Java. Other successful languages such as Objective-C use a very different syntax 
+and approach to adding classes to C.
+C++ is also used for hardware design, where the design is initially described in C++, then analyzed, architecturally constrained, and scheduled to create a register-transfer level hardware description language via high-level synthesis.
+
+C#
+--------
+
+C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, procedural, generic, object-oriented (class-based), and
+component-oriented programming disciplines. It was developed by Microsoft within its .NET initiative.
+C# is one of the programming languages designed for the Common Language Infrastructure.
+
+C# is intended to be a simple, modern, general-purpose, object-oriented programming language.
+The language is intended for use in developing software components suitable for deployment in distributed environments.
+Source code portability is very important, as is programmer portability, especially for those programmers already familiar with C and C++.
+The C# build process is simple compared to C and C++ and more flexible than in Java.
+
+C# is intended to be suitable for writing applications for both hosted and embedded systems, ranging from the very large that use sophisticated operating systems, down to
+the very small having dedicated functions.Although C# applications are intended to be economical with regard to memory and processing power requirements, the language was 
+not intended to compete directly on performance and size with C or assembly language.
+
+Java
+-------
+
+Java is a general-purpose, concurrent, class-based, object-oriented computer programming language that is specifically designed to have as few implementation dependencies 
+as possible. It is intended to let application developers "write once, run anywhere", meaning that code that runs on one platform does not need to be recompiled to run on
+another.
+Java applications are typically compiled to bytecode (class file) that can run on any Java virtual machine regardless of computer architecture.
+Java is, as of 2012, one of the most popular programming languages in use, particularly for client-server web applications
+Java was originally developed by James Gosling at Sun Microsystems (which has since merged into Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform.
+The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.
+Programs written in Java have a reputation for being slower and requiring more memory than those written in C++.As of December 2012, microbenchmarks show Java 7 is
+approximately 44% slower than C++.
+The syntax of Java is largely derived from C++. Unlike C++, which combines the syntax for structured, generic, and object-oriented programming, Java was built almost
+exclusively as an object-oriented language. All code is written inside a class, and everything is an object, with the exception of the primitive data types (e.g. integers,
+floating-point numbers, boolean values, and characters), which are not classes for performance reasons.
+Unlike C++, Java does not support operator overloading or multiple inheritance for classes. This simplifies the language and aids in preventing potential errors and anti-pattern design.
+
+
+PHP
+---------
+
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. 
+PHP code is interpreted by a web server with a PHP processor module which generates the resulting web page: PHP commands can be embedded directly into an HTML source 
+document rather than calling an external file to process data. It has also evolved to include a command-line interface capability and can be used in standalone graphical
+applications.
+PHP is free software released under the PHP License, which is incompatible with the GNU General Public License (GPL) due to restrictions on the usage of the term PHP.
+PHP can be deployed on most web servers and also as a standalone shell on almost every operating system and platform, free of charge.
+PHP source code is compiled on-the-fly to an internal format that can be executed by the PHP engine.[84][85] In order to speed up execution time and not have to compile the
+PHP source code every time the web page is accessed , PHP scripts can also be deployed in executable format using a PHP compiler.
+
+Python
+---------
+
+Python is a general-purpose, high-level programming language whose design philosophy emphasizes code readability. Python's syntax allows programmers to express concepts in
+fewer lines of code than would be possible in languages such as C, and the language provides constructs intended to enable clear programs on both a small and large scale.
+Python supports multiple programming paradigms, including object-oriented, imperative and functional programming styles. It features a dynamic type system and automatic 
+memory management and has a large and comprehensive standard library.
+Like other dynamic languages, Python is often used as a scripting language, but is also used in a wide range of non-scripting contexts. Using third-party tools, 
+Python code can be packaged into standalone executable programs. Python interpreters are available for many operating systems.
+
+ For a programming problem involving string manipulation and search in a dictionary, scripting languages such as Python were more productive than conventional languages
+ such as C and Java. Memory consumption was often "better than Java and not much worse than C or C++".
+
+
+ Javascript
+-----------
+JavaScript (JS) is an interpreted computer programming language.
+It was originally implemented as part of web browsers so that client-side scripts could interact with the user, control the browser, communicate asynchronously, and alter
+the document content that was displayed.
+JavaScript is a prototype-based scripting language that is dynamic, weakly typed, and has first-class functions. Its syntax was influenced by the language C. 
+JavaScript copies many names and naming conventions from Java, but the two languages are otherwise unrelated and have very different semantics. The key design principles
+within JavaScript are taken from the Self and Scheme programming languages.It is a multi-paradigm language, supporting object-oriented,imperative, and functional programming
+styles.
+JavaScript's use in applications outside of web pages—for example, in PDF documents, site-specific browsers, and desktop widgets—is also significant.
+ Newer and faster JavaScript VMs and frameworks built upon them (notably Node.js) have also increased the popularity of JavaScript for server-side web applications.
+
